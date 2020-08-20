@@ -1,11 +1,12 @@
 ---
+title: "Welcome to my blog"
+date: 2019-01-20
+---
+
+---
 title: Your awesome title
 author: GitHub User
 email: your-email@domain.com
----
----
-title: "Welcome to my blog"
-date: 2019-01-20
 ---
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
